@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nhat-tranvan
+- 👀 I’m interested in AWS, DevSecOps, .Net Core and anything related to tech :rocket:
